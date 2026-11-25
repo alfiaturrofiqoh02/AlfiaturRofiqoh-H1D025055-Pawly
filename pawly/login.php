@@ -44,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>Masuk - Pawly</title>
     <?= pawly_bg_style(); ?>
     <style>
-        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Arial, sans-serif; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
         body { min-height: 100vh; display: flex; flex-direction: column; color: #3D2C2E; }
 
         .navbar {

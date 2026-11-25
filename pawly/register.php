@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta charset="UTF-8">
     <title>Daftar Akun - Pawly</title>
     <style>
-        body { font-family: 'Segoe UI', Arial, sans-serif; background: #FFF8F5; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; }
+        body { background: #FFF8F5; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; }
         .box { background: #FFF; padding: 28px; border-radius: 20px; width: 100%; max-width: 380px; border: 1px solid #F3E2DD; }
         h2 { margin-bottom: 16px; color: #3D2C2E; }
         label { display: block; font-size: 13px; font-weight: 600; margin-top: 12px; }

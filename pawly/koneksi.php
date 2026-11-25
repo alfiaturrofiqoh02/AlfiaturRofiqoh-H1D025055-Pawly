@@ -5,7 +5,7 @@ if (session_status() === PHP_SESSION_NONE) {
 
 $host = "localhost";
 $user = "root";
-$pass = "Likuyy@12";
+$pass = "";
 $db   = "pawly_db";
 
 $koneksi = mysqli_connect($host, $user, $pass, $db);

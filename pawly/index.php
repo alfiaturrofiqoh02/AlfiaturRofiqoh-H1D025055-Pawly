@@ -13,7 +13,7 @@ $tujuan_mulai = $sudah_login ? 'user/dashboard.php' : 'login.php';
     <?= pawly_bg_style(); ?>
     <?= pawly_font_style(); ?>
     <style>
-        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Arial, sans-serif; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
         body { color: #3D2C2E; line-height: 1.5; }
         a { text-decoration: none; color: inherit; }
 
